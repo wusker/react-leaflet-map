@@ -8,4 +8,4 @@ Leaflet / OpenStreetMap, Node / Express, React, MongoDB user location map.
 
 `yarn start`
 
-- Currently issues in Firefox
+- Currently: issues in Firefox
