@@ -4,8 +4,12 @@ Leaflet / OpenStreetMap, Node / Express, React, MongoDB user location map.
 
 ## Getting Started
 
-`yarn`
+```
+yarn
+```
 
-`yarn start`
+```
+yarn start
+```
 
 - Currently: issues in Firefox
